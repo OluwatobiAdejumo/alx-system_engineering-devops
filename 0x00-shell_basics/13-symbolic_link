@@ -1,0 +1,2 @@
+#!/bin/bash
+/tmp/sym$ /bin/ls __ls__
