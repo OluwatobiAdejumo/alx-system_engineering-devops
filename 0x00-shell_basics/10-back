@@ -1,3 +1,2 @@
 #!/bin/bash
-cd
-cd /tmp
+cd /tmp/my_first_directory
